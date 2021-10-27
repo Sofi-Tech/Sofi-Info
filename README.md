@@ -35,11 +35,8 @@ Any changes or updates will be made aware of to our users. Keep an eye on this s
 
 ## Developers
 
-- Syed Abdul Rahman (Voxelli)
-- Krishil Patel (Hound)
-
-- GitHub: [https://github.com/legendhimslef](https://github.com/legendhimslef)
-- GitHub: [https://github.com/Warrior-hound](https://github.com/Warrior-hound)
+- Syed Abdul Rahman (Voxelli) GitHub: [https://github.com/legendhimslef](https://github.com/legendhimslef)
+- Krishil Patel (Hound) GitHub: [https://github.com/Warrior-hound](https://github.com/Warrior-hound)
 
 ## Owner
 
