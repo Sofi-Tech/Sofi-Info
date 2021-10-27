@@ -27,7 +27,7 @@ Only the owner and the developers of the game have access to your data. Under no
 
 ### DATA DELETION
 
-Any user can request us to delete their data by joining the support server at [discord.gg/sofi](discord.gg/sofi). It can take upto 48 hours to remove your information from the database and backups. We will still retain the user IDs of the players and server who are blacklisted from the game to prevent them from exploiting it.
+Any user can request us to delete their data by joining the support server at [discord.gg/sofi](https://discord.gg/thzjEPFdmk). It can take upto 48 hours to remove your information from the database and backups. We will still retain the user IDs of the players and server who are blacklisted from the game to prevent them from exploiting it.
 
 ### POLICY UPDATES
 
