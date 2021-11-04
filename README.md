@@ -19,7 +19,7 @@ By using the Bot you understand that we collect the following data:
 
 ### HOW WE USE YOUR DATA
 
-Your data is used to provided essential features in the game. From providing in depth stats about gameplay and performance of your server. We provide ranks to users and servers so they can compete with each other. We also use your data to combat alters and cheaters.
+Your data is used to provided essential features in the game. From providing in depth stats about gameplay and performance of your server to providing ranks to users and servers so they can compete with each other. We also use your data to combat alters and cheaters.
 
 ### WHO HAS ACCESS
 
