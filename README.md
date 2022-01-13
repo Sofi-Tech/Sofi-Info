@@ -12,14 +12,14 @@ We are very much aware about how important privacy is for our users. We take a l
 
 ### DATA WE COLLECT
 
-By using the Bot you understand that we collect the following data:
+By using the bot you understand, and consent us to, collect the following data:
 - Message content, reactions and total messages sent
 - Usernames, avatars, and discriminators
-- Guild Channel and Member Count
+- Guild channel and member count
 
 ### HOW WE USE YOUR DATA
 
-Your data is used to provided essential features in the game. From providing in depth stats about gameplay and performance of your server to providing ranks to users and servers so they can compete with each other. We also use your data to combat alters and cheaters.
+Your data is used to provide essential features in the game. From providing in depth stats about gameplay and performance of your server, to providing ranks to users and servers so they can compete with each other. We also use your data to combat alters and cheaters.
 
 ### WHO HAS ACCESS
 
@@ -31,7 +31,7 @@ Any user can request us to delete their data by joining the support server at [d
 
 ### POLICY UPDATES
 
-Any changes or updates will be made aware of to our users. Keep an eye on this space to check for our policy and give us feedback to what we could do better. Feel free to contact us in our support server if you have any questions regarding our privacy policy.
+Any future changes or updates to this policy, will be made aware of to our users. Keep an eye on this space to check for our policy and give us feedback to what we could do better. Feel free to contact us in our support server if you have any questions regarding our privacy policy.
 
 ## Developers
 
@@ -42,4 +42,4 @@ Any changes or updates will be made aware of to our users. Keep an eye on this s
 
 Sourav (ShoXie)
 
-- GitHub: [https://github.com/ShoXi3](https://github.com/ShoXi3)
+- GitHub: [https://github.com/ShoXi3](https://github.com/ShoXcy)
