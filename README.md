@@ -17,6 +17,11 @@ By using the bot you understand, and consent us to, collect the following data:
 - Usernames, avatars, and discriminators
 - Guild channel and member count
 
+By visiting or logging in on to the website sofi.gg or any of its related domains or subdomains, you allow us to collect the following data:
+- IP Address
+- Cookies 
+- User ID and Name
+
 ### HOW WE USE YOUR DATA
 
 Your data is used to provide essential features in the game. From providing in depth stats about gameplay and performance of your server, to providing ranks to users and servers so they can compete with each other. We also use your data to combat alters and cheaters.
@@ -37,7 +42,7 @@ Any future changes or updates to this policy, will be made aware of to our users
 
 - Syed Abdul Rahman (Voxelli) [https://github.com/legendhimslef](https://github.com/legendhimslef)
 - Krishil Patel (Hound) [https://github.com/Warrior-hound](https://github.com/Warrior-hound)
-
+- Piyush Bhangale (Piyush) [https://github.com/officialpiyush](https://github.com/officialpiyush)
 ## Owner
 
 Sourav (ShoXie)
