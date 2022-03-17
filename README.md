@@ -13,14 +13,15 @@ We are very much aware about how important privacy is for our users. We take a l
 ### DATA WE COLLECT
 
 By using the bot you understand, and consent us to, collect the following data:
+- Verify you by using IP Address to prevent alts and bad actors 
 - Message content, reactions and total messages sent
 - Usernames, avatars, and discriminators
 - Guild channel and member count
 
+
 By visiting or logging in on to the website sofi.gg or any of its related domains or subdomains, we may collect the following data:
-- IP Address
-- Cookies 
 - User ID and Name
+- IP Address
 
 ### HOW WE USE YOUR DATA
 
