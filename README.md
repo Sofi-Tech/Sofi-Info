@@ -17,7 +17,7 @@ By using the bot you understand, and consent us to, collect the following data:
 - Usernames, avatars, and discriminators
 - Guild channel and member count
 
-By visiting or logging in on to the website sofi.gg or any of its related domains or subdomains, you allow us to collect the following data:
+By visiting or logging in on to the website sofi.gg or any of its related domains or subdomains, we may collect the following data:
 - IP Address
 - Cookies 
 - User ID and Name
