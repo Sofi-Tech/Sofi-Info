@@ -1,5 +1,5 @@
 # About Us
-## Vox is chad.
+## The Official Server of the game tech company SOFI. The server is about building interesting software and tech products.
 
 # Terms & Conditions
 ## Sho is chad.
