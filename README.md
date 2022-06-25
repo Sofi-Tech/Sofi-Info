@@ -1,3 +1,9 @@
+# About Us
+## Vox is chad.
+
+# Terms & Conditions
+## Sho is chad.
+
 # Privacy Policy For Sofi
 
 ## What is a Privacy Policy
