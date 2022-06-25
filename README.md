@@ -1,5 +1,5 @@
 # About Us
-The Official Server of the game tech company SOFI. The server is about building interesting software and tech products.
+Sofi Tech creates various tech products like bots and websites on the platform Discord and beyond.
 
 # Terms & Conditions
 **INTRODUCTION**
