@@ -2,7 +2,15 @@
 The Official Server of the game tech company SOFI. The server is about building interesting software and tech products.
 
 # Terms & Conditions
-## Sho is chad.
+**INTRODUCTION**
+Sofi ("us," "we," or "our") owns and operates the <https://sofi.gg> website and Sofi Discord Bot (the "Service"). Sofi Discord Bot functions on Discord (the "Platform"). By using our service you implicitly agree to our terms. You may stop using the service at any time if you no longer agree to these terms.
+
+**SERVICE TERMS**
+- We reserve the right to revoke access to the Service at any time for any reason.
+- While using the Service, you also agree to obey the rules of the Platform - <https://discord.com/terms> and <https://discord.com/guidelines>.
+- Your use of the Service is expected to remain as a virtual entertainment. We are not responsible for any real-life or virtual damages caused by your use of the Service.
+- Any use of the Service for any illegal and/or malicious behavior may result in revoking your rights to the Service.
+- We are not responsible for any malicious use of the Service done by others.
 
 # Privacy Policy For Sofi
 
