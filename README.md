@@ -55,7 +55,7 @@ Any future changes or updates to this policy, will be made aware of to our users
 
 ## Developers
 
-- Syed Abdul Rahman (Voxelli) [https://github.com/legendhimslef](https://github.com/legendhimslef)
+- Syed Abdul Rahman (Voxelli) [https://github.com/legendhimself](https://github.com/legendhimself)
 - Krishil Patel (Hound) [https://github.com/Warrior-hound](https://github.com/Warrior-hound)
 - Piyush Bhangale (Piyush) [https://github.com/officialpiyush](https://github.com/officialpiyush)
 - Aarya Chavan (Sarcaster) [https://github.com/sarcasternub](https://github.com/sarcasterXO)
