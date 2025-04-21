@@ -3,14 +3,14 @@ Sofi Tech creates various tech products like bots and websites on the platform D
 
 # Terms & Conditions
 **INTRODUCTION**
-Sofi ("us," "we," or "our") owns and operates the <https://sofi.gg> website and Sofi Discord Bot (the "Service"). Sofi Discord Bot functions on Discord (the "Platform"). By using our service you implicitly agree to our terms. You may stop using the service at any time if you no longer agree to these terms.
+Sofi Tech (“us,” “we,” or “our”) owns and operates the [Sofi.gg](https://sofi.gg) website and Sofi Discord Bot (the “Service”). Sofi Discord Bot functions on Discord (the “Platform”). By using our service you implicitly agree to our terms. You may stop using the service at any time if you no longer agree to these terms.
 
 **SERVICE TERMS**
 - We reserve the right to revoke access to the Service at any time for any reason.
-- While using the Service, you also agree to obey the rules of the Platform - <https://discord.com/terms> and <https://discord.com/guidelines>.
-- Your use of the Service is expected to remain as a virtual entertainment. We are not responsible for any real-life or virtual damages caused by your use of the Service.
-- Any use of the Service for any illegal and/or malicious behavior may result in revoking your rights to the Service.
-- We are not responsible for any malicious use of the Service done by others.
+- While using the Service, you also agree to obey the rules of the Platform - [Discord Terms](https://discord.com/terms) and [Discord Guidelines](https://discord.com/guidelines).
+- Your use of the Service is expected to remain as a virtual entertainment. We are not responsible for any real-life or virtual damages caused by your use of the Service
+- Any use of the Service for any illegal and/or malicious behavior may result in revoking your rights to the Service
+- We are not responsible for any malicious use of the Service done by others
 
 # Privacy Policy For Sofi
 
@@ -27,14 +27,14 @@ We are very much aware about how important privacy is for our users. We take a l
 ### DATA WE COLLECT
 
 By using the bot you understand, and consent us to, collect the following data:
-- Verify you by using IP Address to prevent alts and bad actors 
-- Message content, reactions and total messages sent
-- Usernames, avatars, and discriminators
+- Verify you by using IP Address to prevent alts and bad actors
+- Message content to run commands
+- Username, email, and avatar
 - Guild channel and member count
 
 
 By visiting or logging in on to the website sofi.gg or any of its related domains or subdomains, we may collect the following data:
-- User ID and Name
+- User Id, Username and Email
 - IP Address
 
 ### HOW WE USE YOUR DATA
@@ -47,7 +47,7 @@ Only the owner and the developers of the game have access to your data. Under no
 
 ### DATA DELETION
 
-Any user can request us to delete their data by joining the support server at [discord.gg/sofi](https://discord.gg/thzjEPFdmk). It can take upto 48 hours to remove your information from the database and backups. We will still retain the user IDs of the players and server who are blacklisted from the game to prevent them from exploiting it.
+Any user can request us to delete their data by joining the [Support Server](https://discord.gg/thzjEPFdmk). Their inventory and cards will be removed. It can take upto 48 hours to remove your information from the database and backups. We will still retain the user IDs of the players and some identifiers. Any user that has violated rules, created alts or has been blacklisted from the game cannot request data deletion to prevent them from exploiting the game.
 
 ### POLICY UPDATES
 
@@ -57,8 +57,9 @@ Any future changes or updates to this policy, will be made aware of to our users
 
 - Syed Abdul Rahman (Voxelli) [https://github.com/legendhimself](https://github.com/legendhimself)
 - Krishil Patel (Hound) [https://github.com/Warrior-hound](https://github.com/Warrior-hound)
-- Piyush Bhangale (Piyush) [https://github.com/officialpiyush](https://github.com/officialpiyush)
+- Imran Hussain Barbhuiya (Parbez) [https://github.com/imranbarbhuiya](https://github.com/imranbarbhuiya)
 - Aarya Chavan (Sarcaster) [https://github.com/sarcasternub](https://github.com/sarcasterXO)
+
 ## Owner
 
 Sourav (ShoXie)
